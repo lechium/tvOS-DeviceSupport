@@ -26,3 +26,5 @@ This repository holds the device support files for the tvOS, and I will update i
 5. tvOS 13.x
 	* 13.0	`2019/10/31`
 	* 13.2	`2019/11/12`
+	* 13.3  `2019/12/10`
+	* 13.4  `2020/03/24`
